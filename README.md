@@ -1,0 +1,1 @@
+A repo to answer the question posed in [this Bluesky post](https://bsky.app/profile/laurie-merrell.bsky.social/post/3me7phlyfsk25): **How many adjacent pairs of CTA stations make the name of a person who has a Wikipedia page?**
